@@ -1,0 +1,10 @@
+*.[oa]
+*.in
+*.in~
+*.out
+*.txt
+*.cbp
+*.depend
+*.layout
+bin/
+obj/
